@@ -1,0 +1,6 @@
+E:\编程\编程练习\C#\常用小工具\Program\Random Beta1.0\bin\Debug\Random Beta1.0.exe.config
+E:\编程\编程练习\C#\常用小工具\Program\Random Beta1.0\bin\Debug\Random Beta1.0.exe
+E:\编程\编程练习\C#\常用小工具\Program\Random Beta1.0\bin\Debug\Random Beta1.0.pdb
+E:\编程\编程练习\C#\常用小工具\Program\Random Beta1.0\obj\Debug\Random Beta1.0.csprojResolveAssemblyReference.cache
+E:\编程\编程练习\C#\常用小工具\Program\Random Beta1.0\obj\Debug\Random Beta1.0.exe
+E:\编程\编程练习\C#\常用小工具\Program\Random Beta1.0\obj\Debug\Random Beta1.0.pdb
